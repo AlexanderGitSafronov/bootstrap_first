@@ -1,0 +1,63 @@
+.nav-item a {
+  font-size: 20px;
+  color: black;
+}
+.heading_center {
+  margin-top: 180px;
+  font-size: 16px;
+}
+.heading_center h1 {
+  font-weight: 700;
+}
+.heading_center img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  margin-left: 18px;
+}
+.elipse {
+  width: 230px;
+  height: 230px;
+  background-color: #edf7fa;
+  border-radius: 50%;
+}
+.btn-link {
+  font-weight: 400;
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+
+.bb .elipse {
+  margin-left: 26px;
+}
+
+.about {
+  background-color: #edf7fa;
+  padding-bottom: 50px;
+}
+.pad {
+  padding-top: 20px;
+}
+.section_pos {
+  padding-bottom: 10px;
+}
+.cardes {
+  padding-bottom: 50px;
+}
+
+.font_prew h2 {
+  font-weight: 700;
+}
+.age .btn {
+  padding: 0px 10px;
+  background-color: #142850;
+  color: #fff;
+  border-radius: 20px 20px 20px 20px;
+}
+.bi {
+  font-size: 40px;
+}
+footer a {
+  color: #000;
+}
